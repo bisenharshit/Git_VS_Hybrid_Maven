@@ -10,8 +10,6 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 
-
-
 public class BasicPetStoreUtility {
 
 	public WebDriver driver;
@@ -32,9 +30,5 @@ public class BasicPetStoreUtility {
 		return ps;
 		
 	}
-	
-	
-	
-
 	
 }
